@@ -1,0 +1,12 @@
+imutils==0.5.4
+numpy==1.23.5
+opencv_contrib_python==4.5.5.62
+opencv_python==4.5.5.62
+opencv_python_headless==4.5.4.60
+Pillow==9.4.0
+pybboxes==0.1.6
+scikit_learn==1.2.2
+scipy==1.11.1
+skimage==0.0
+torch==1.12.0
+torchvision==0.13.0
