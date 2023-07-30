@@ -7,6 +7,6 @@ Pillow==9.4.0
 pybboxes==0.1.6
 scikit_learn==1.2.2
 scipy==1.11.1
-skimage==0.0
+scikit-image==0.20.0
 torch==1.12.0
 torchvision==0.13.0
